@@ -1,5 +1,9 @@
 # EdgeLedger
 
+### Deployment Link
+
+https://financialwebsample.netlify.app
+
 ### Details
 
 Basic multi-page static website using HTML, CSS, and JavaScript. Website uses flexbox to display responsive content.
